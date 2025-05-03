@@ -27,5 +27,4 @@
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/vrsalxmz_?igsh=MXVvNWxjYWF3aTdkbw%3D%3D&utm_source=qr " style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=salma638&show_icons=true&locale=en" alt="salma638" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salma638&" alt="salma638" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=salma638&show_icons=true&locale=en&layout=compact" alt="salma638" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salma638" alt="salma638" /></a></p>
