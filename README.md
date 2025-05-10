@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm Salma Radi.
-I'm currently in my second year studying Software Engineering at the Higher School of Technology in Meknes (ESTM). Passionate about technology and problem-solving, I'm building a strong foundation in software development, with hands-on experience in both web and mobile applications. I'm particularly interested in creating innovative, user-friendly solutions that make a real impact.
+I'm currently in my second year studying computer Engineering at the Higher School of Technology in Meknes (ESTM). Passionate about technology and problem-solving, I'm building a strong foundation in software development, with hands-on experience in both web and mobile applications. I'm particularly interested in creating innovative, user-friendly solutions that make a real impact.
 
 
 ## 🌐 Socials:
